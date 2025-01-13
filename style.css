@@ -3,16 +3,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #5a0a9c, #2a60b3);
+    background: linear-gradient(135deg, #11021d, #b92186);
     color: #d6548a;
     text-align: center;
 }
 
 h1 {
-    color: #9bcbfa;
+    color: #e8ecf0;
     font-size: 3em;
     margin-top: 20vh;
-    text-shadow: 2px 2px 5px rgba(10, 234, 250, 0.2);
+    text-shadow: 2px 2px 5px rgba(25, 198, 218, 0.2);
 }
 
 @media (max-width: 600px) {
